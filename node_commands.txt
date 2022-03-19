@@ -1,0 +1,8 @@
+list of progress features
+node --v8-options | grep "in progress"
+
+node --harmony_trailing_commas -p 'function tc(a,b,){}'
+
+For garbage collector
+node --v8-options | grep gc
+
